@@ -1,0 +1,3 @@
+Confusion Set Average 
+Bayes - 94.2 
+Perceptron - 95.3 

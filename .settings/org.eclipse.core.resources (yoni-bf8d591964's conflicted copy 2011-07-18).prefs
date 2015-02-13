@@ -1,0 +1,17 @@
+#Mon Jul 18 00:10:21 IDT 2011
+eclipse.preferences.version=1
+encoding//externalSrc/translitsIdentifier/langmod.py=cp1255
+encoding//externalSrc/translitsIdentifier/translitsIdentifier.py=cp1255
+encoding//src/BguCorpusReader.py=cp1255
+encoding//src/ConfusionSetGenerator.py=cp1255
+encoding//src/ConfusionSetMemoryClassifier.py=cp1255
+encoding//src/ConfusionSetSVMClassifier.py=cp1255
+encoding//src/DetectErrors.py=cp1255
+encoding//src/ErrorCorpusReader.py=utf-8
+encoding//src/ErrorNgramClassifier.py=cp1255
+encoding//src/ErrorSVMClassifier.py=cp1255
+encoding//src/LanguageModel.py=cp1255
+encoding//src/Lexicon.py=cp1255
+encoding//src/Main.py=cp1255
+encoding//src/Tagger.py=utf-8
+encoding//src/hebtokenizer.py=utf8
